@@ -29,5 +29,14 @@
         <vaadin.spring.boot.starter.version>1.0.0</vaadin.spring.boot.starter.version>
 	</properties>
 
+    <dependencies>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+        </dependency>
+
+    </dependencies>
 
 </project>
